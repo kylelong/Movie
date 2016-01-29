@@ -13,7 +13,7 @@ Submitted by: Kyle Long
 
 Here's a walkthrough of implemented user stories: 
 
-GIF created with LiceCap.
+GIF created with LiceCap. http://i.imgur.com/WcgrYzn.gif
 
 Notes
 
